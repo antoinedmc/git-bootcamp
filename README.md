@@ -1,3 +1,3 @@
 # Git Bootcamp
 
-### coucou
+Vercel project to improve git and github skills
